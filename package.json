@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/hamaimouyassine/thais-mcp-server/issues"
   },
-  "homepage": "https://github.com/hamaimouyassine/thais-mcp-server#readme"
+  "homepage": "https://github.com/hamaimouyassine/thais-mcp-server#readme",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.25.3",
+    "dotenv": "^17.2.3",
+    "node-fetch": "^3.3.2"
+  }
 }
